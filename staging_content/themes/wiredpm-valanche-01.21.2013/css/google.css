@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo|Cuprum|Junge|Lora|Merriweather|News+Cycle|PT+Sans|Ubuntu);
+
+p.junge {
+	font-family: 'Junge', serif;
+}
+
+p.lora {
+	font-family: 'Lora', serif;
+}
+
+p.news-cycle {
+	font-family: 'News Cycle', sans-serif;
+}
+
+p.pt-sans {
+	font-family: 'PT Sans', sans-serif;
+}
+
+p.rokkitt {
+	font-family: 'Rokkitt', serif;
+	font-size: 18px;
+	line-height: 1.4;
+}
+
+h4.arvo {
+	font-family: 'Arvo', serif;
+}
+
+h4.cuprum {
+	font-family: 'Cuprum', sans-serif;
+	font-size: 30px;
+}
+
+h4.merriweather {
+	font-family: 'Merriweather', serif;
+}
+
+h4.oswald {
+	font-family: 'Oswald', sans-serif;
+	font-size: 24px;
+}
+
+h4.ubuntu {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+}

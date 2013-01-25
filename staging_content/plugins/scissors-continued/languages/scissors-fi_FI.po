@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors v0.92\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/scissors\n"
+"POT-Creation-Date: 2009-08-12 05:00+0000\n"
+"PO-Revision-Date: 2009-10-02 15:00+0300\n"
+"Last-Translator: Taneli Selin <taneli.selin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Finnish\n"
+"X-Poedit-Country: FINLAND\n"
+
+#: scissors.php:214
+#: scissors.php:254
+msgid "Full size"
+msgstr "Täysi koko"
+
+#: scissors.php:215
+msgid "Max Width"
+msgstr "Maksimileveys"
+
+#: scissors.php:217
+msgid "Max Height"
+msgstr "Maksimikorkeus"
+
+#: scissors.php:219
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Estääksesi kuvan koon muuntamisen tietyllä akselilla, määrittele arvoksi 0."
+
+#: scissors.php:221
+#: scissors.php:226
+msgid "Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr "Sopeutuva tila: Rajoita vaakakuvien leveyttä ja pystykuvien korkeutta."
+
+#: scissors.php:613
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Scissors-lisäosa tukee kuvien automaattista vesileimausta, määritä asetukset täällä."
+
+#: scissors.php:619
+msgid "large"
+msgstr "suuri"
+
+#: scissors.php:620
+msgid "medium"
+msgstr "keskikokoinen"
+
+#: scissors.php:621
+msgid "thumbnail"
+msgstr "pienoiskuva"
+
+#: scissors.php:622
+#: scissors.php:874
+msgid "full"
+msgstr "täysikokoinen"
+
+#: scissors.php:623
+msgid "custom"
+msgstr "mukautettu"
+
+#: scissors.php:643
+#: scissors.php:726
+msgid "Image"
+msgstr "Kuva"
+
+#: scissors.php:645
+msgid "Select Image"
+msgstr "Valitse kuva"
+
+#: scissors.php:646
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Klikkaa painiketta, valitse kuva avautuvasta valintaikkunasta ja klikkaa \"Lisää tekstiin\" lisätäksesi kuvan."
+
+#: scissors.php:652
+#: scissors.php:727
+msgid "Size"
+msgstr "Koko"
+
+#: scissors.php:654
+msgid "Do not resize the watermark."
+msgstr "Älä muuta vesileiman kokoa."
+
+#: scissors.php:658
+#, php-format
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Rajoita vesileiman koko %s prosenttiin kohdekuvan koosta."
+
+#: scissors.php:665
+#: scissors.php:728
+msgid "Horizontal alignment"
+msgstr "Vaakakeskitys"
+
+#: scissors.php:667
+msgid "left"
+msgstr "vasen"
+
+#: scissors.php:669
+msgid "center"
+msgstr "keski"
+
+#: scissors.php:671
+msgid "right"
+msgstr "oikea"
+
+#: scissors.php:678
+msgid "top"
+msgstr "ylälaita"
+
+#: scissors.php:680
+msgid "middle"
+msgstr "keski"
+
+#: scissors.php:682
+msgid "bottom"
+msgstr "alalaita"
+
+#: scissors.php:724
+msgid "Watermarking"
+msgstr "Vesileimaus"
+
+#: scissors.php:725
+msgid "Enable"
+msgstr "Käytä kuvatyypeissä"
+
+#: scissors.php:729
+msgid "Vertical alignment"
+msgstr "Pystykeskitys"
+
+#: scissors.php:738
+msgid "Settings"
+msgstr "Asetukset"
+
+#: scissors.php:756
+msgid "Skip watermarking of images"
+msgstr "Ohita vesileimaus"
+
+#: scissors.php:761
+msgid "Skip scaling of full-size images"
+msgstr "Ohita kuvien skaalaus"
+
+#: scissors.php:845
+msgid "Crop"
+msgstr "Rajaa"
+
+#: scissors.php:846
+msgid "Resize"
+msgstr "Muuta kokoa"
+
+#: scissors.php:847
+msgid "Rotate"
+msgstr "Kierrä"
+
+#: scissors.php:848
+msgid "Watermarks"
+msgstr "Vesileimat"
+
+#: scissors.php:849
+msgid "Apply"
+msgstr "Käytä"
+
+#: scissors.php:850
+msgid "Abort"
+msgstr "Keskeytä"
+
+#: scissors.php:851
+#, php-format
+msgid "Crop %s."
+msgstr "Rajaa %s."
+
+#: scissors.php:852
+#, php-format
+msgid "Lock aspect ratio to %s."
+msgstr "Lukitse kuvasuhde %s."
+
+#: scissors.php:853
+msgid "width"
+msgstr "leveys"
+
+#: scissors.php:854
+msgid "height"
+msgstr "korkeus"
+
+#: scissors.php:855
+msgid "long side"
+msgstr "pitkä sivu"
+
+#: scissors.php:856
+msgid "short side"
+msgstr "lyhyt sivu"
+
+#: scissors.php:857
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Käytä kuvan merkityksellisyyttä korostavaa rajausta."
+
+#: scissors.php:873
+msgid "full chain"
+msgstr "kaikki koot"
+
+#: scissors.php:908
+#, php-format
+msgid "Resize to %s pixels."
+msgstr "Pienennä %s pikseliin."
+
+#: scissors.php:913
+msgid "Maintain aspect ratio."
+msgstr "Säilytä kuvasuhde."
+
+#: scissors.php:916
+msgid "Rotate by"
+msgstr "Kierrä"
+
+#: scissors.php:917
+msgid "90 degrees left"
+msgstr "90 astetta vasemmalle"
+
+#: scissors.php:918
+msgid "90 degrees right"
+msgstr "90 astetta oikealle"
+
+#: scissors.php:919
+msgid "180 degrees"
+msgstr "180 astetta"
+
+#: scissors.php:995
+msgid "Invalid target."
+msgstr "Virheellinen kohde."
+
+#: scissors.php:1103
+#: scissors.php:1108
+#: scissors.php:1114
+#: scissors.php:1162
+msgid "Failed to save new image."
+msgstr "Kuvan tallennus epäonnistui."
+
+#: scissors.php:1117
+msgid "Failed to crop image."
+msgstr "Kuvan rajaaminen epäonnistui."
+
+#: scissors.php:1122
+#: scissors.php:1171
+msgid "Failed to allocate memory."
+msgstr "Muistinvaraus epäonnistui."
+
+#: scissors.php:1130
+msgid "Invalid selection."
+msgstr "Virheellinen valinta."
+
+#: scissors.php:1165
+msgid "Failed to resize image."
+msgstr "Kuvan koon muuttaminen epäonnistui."
+
+#: scissors.php:1177
+msgid "Invalid destination dimensions."
+msgstr "Virheelliset kohdemitat."
+
+#: scissors.php:1198
+#: scissors.php:1234
+msgid "Invalid query."
+msgstr "Virheellinen kysely."
+
+#: scissors.php:1239
+msgid "Failed to load image."
+msgstr "Kuvan lataaminen epäonnistui."
+
+#: scissors.php:1242
+msgid "Invalid post-id."
+msgstr "Virheellinen viestitunnus."
+
+#: scissors.php:1245
+msgid "Unauthorized query."
+msgstr "Kyselyä ei sallittu."
+
+#. Plugin Name of an extension
+msgid "Scissors"
+msgstr "Scissors"
+
+#. Plugin URI of an extension
+msgid "http://stephanreiter.info/2008/10/wordpress-plugin-scissors/"
+msgstr "http://stephanreiter.info/2008/10/wordpress-plugin-scissors/"
+
+#. Description of an extension
+msgid "Scissors enhances WordPress' handling of images by introducing cropping, resizing, rotating, and watermarking functionality."
+msgstr "Scissors monipuolistaa WordPressin kuvienkäsittelyä lisäämällä rajaamisen, koon muuttamisen, kiertämisen ja vesileimausominaisuudet."
+
+#. Author of an extension
+msgid "Stephan Reiter"
+msgstr "Stephan Reiter"
+
+#. Author URI of an extension
+msgid "http://stephanreiter.info/"
+msgstr "http://stephanreiter.info/"
+

@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors v1.1.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-07-10 18:54-0400\n"
+"Last-Translator: admin <vdamiani@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: scissors.php:214
+#: scissors.php:254
+#@ scissors
+msgid "Full size"
+msgstr "Tamanho máximo"
+
+#: scissors.php:215
+msgid "Max Width"
+msgstr ""
+
+#: scissors.php:217
+msgid "Max Height"
+msgstr ""
+
+#: scissors.php:219
+#@ scissors
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Insira 0 para desativar o redimensionamento deste tamanho."
+
+#: scissors.php:221
+#: scissors.php:226
+#@ scissors
+msgid "Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr "Modo adaptável: Limitar largura de imagens em formato 'paisagem' e altura em formato 'retrato'."
+
+#: scissors.php:613
+#@ scissors
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "O plugin Scissors permite inserção automática de marca d'água em imagens. Configure esse recurso aqui..."
+
+#: scissors.php:619
+#@ scissors
+msgid "large"
+msgstr "grande"
+
+#: scissors.php:620
+#@ scissors
+msgid "medium"
+msgstr "médio"
+
+#: scissors.php:621
+#@ scissors
+msgid "thumbnail"
+msgstr "miniatura"
+
+#: scissors.php:622
+#: scissors.php:874
+#@ scissors
+msgid "full"
+msgstr "máximo"
+
+#: scissors.php:623
+#@ scissors
+msgid "custom"
+msgstr "personalizado"
+
+#: scissors.php:643
+#: scissors.php:726
+#@ scissors
+msgid "Image"
+msgstr "Imagem"
+
+#: scissors.php:645
+#@ scissors
+msgid "Select Image"
+msgstr "Selecione a imagem"
+
+#: scissors.php:646
+#@ scissors
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Para escolher sua marca d'água, clique no botão, escolha uma imagem, e selecione \"Inserir no Post\"."
+
+#: scissors.php:652
+#: scissors.php:727
+#@ scissors
+msgid "Size"
+msgstr "Tamanho"
+
+#: scissors.php:654
+#@ scissors
+msgid "Do not resize the watermark."
+msgstr "Não redimensionar a marca d'água."
+
+#: scissors.php:658
+#, php-format
+#@ scissors
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Limitar o tamanho da marca d'água para %s porcento da região da imagem."
+
+#: scissors.php:665
+#: scissors.php:728
+#@ scissors
+msgid "Horizontal alignment"
+msgstr "Alinhamento horizontal"
+
+#: scissors.php:667
+msgid "left"
+msgstr ""
+
+#: scissors.php:669
+msgid "center"
+msgstr ""
+
+#: scissors.php:671
+msgid "right"
+msgstr ""
+
+#: scissors.php:678
+msgid "top"
+msgstr ""
+
+#: scissors.php:680
+msgid "middle"
+msgstr ""
+
+#: scissors.php:682
+msgid "bottom"
+msgstr ""
+
+#: scissors.php:724
+#@ scissors
+msgid "Watermarking"
+msgstr "Marca D'água"
+
+#: scissors.php:725
+#@ scissors
+msgid "Enable"
+msgstr "Ativar"
+
+#: scissors.php:729
+#@ scissors
+msgid "Vertical alignment"
+msgstr "Alinhamento vertical"
+
+#: scissors.php:845
+#@ scissors
+msgid "Crop"
+msgstr "Cortar"
+
+#: scissors.php:846
+#@ scissors
+msgid "Resize"
+msgstr "Redimensionar"
+
+#: scissors.php:847
+#@ scissors
+msgid "Rotate"
+msgstr "Girar"
+
+#: scissors.php:848
+#@ scissors
+msgid "Watermarks"
+msgstr "Marcas D'água"
+
+#: scissors.php:849
+#@ scissors
+msgid "Apply"
+msgstr "Aplicar"
+
+#: scissors.php:850
+#@ scissors
+msgid "Abort"
+msgstr "Abortar"
+
+#: scissors.php:851
+#, php-format
+#@ scissors
+msgid "Crop %s."
+msgstr "Cortar %s."
+
+#: scissors.php:852
+#, php-format
+#@ scissors
+msgid "Lock aspect ratio to %s."
+msgstr "Bloquear proporção em %s."
+
+#: scissors.php:853
+#@ scissors
+msgid "width"
+msgstr "largura"
+
+#: scissors.php:854
+#@ scissors
+msgid "height"
+msgstr "altura"
+
+#: scissors.php:855
+#@ scissors
+msgid "long side"
+msgstr "maior lado"
+
+#: scissors.php:856
+#@ scissors
+msgid "short side"
+msgstr "menor lado"
+
+#: scissors.php:857
+#@ scissors
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Utilizar redução inteligente (priorizando conteúdo)."
+
+#: scissors.php:873
+#@ scissors
+msgid "full chain"
+msgstr "Todos os formatos"
+
+#: scissors.php:908
+#, php-format
+#@ scissors
+msgid "Resize to %s pixels."
+msgstr "Redimensionar para %s pixels."
+
+#: scissors.php:913
+#@ scissors
+msgid "Maintain aspect ratio."
+msgstr "Manter proporção."
+
+#: scissors.php:916
+#@ scissors
+msgid "Rotate by"
+msgstr "Girar "
+
+#: scissors.php:917
+#@ scissors
+msgid "90 degrees left"
+msgstr "90º para esquerda"
+
+#: scissors.php:918
+#@ scissors
+msgid "90 degrees right"
+msgstr "90º para direita"
+
+#: scissors.php:919
+#@ scissors
+msgid "180 degrees"
+msgstr "180º"
+
+#: scissors.php:995
+#@ scissors
+msgid "Invalid target."
+msgstr "Imagem inválida."
+
+#: scissors.php:1103
+#: scissors.php:1108
+#: scissors.php:1114
+#: scissors.php:1162
+#@ scissors
+msgid "Failed to save new image."
+msgstr "Falha ao gravar a nova imagem."
+
+#: scissors.php:1117
+#@ scissors
+msgid "Failed to crop image."
+msgstr "Falha ao cortar a imagem."
+
+#: scissors.php:1122
+#: scissors.php:1171
+#@ scissors
+msgid "Failed to allocate memory."
+msgstr "Falha ao alocar memória."
+
+#: scissors.php:1130
+#@ scissors
+msgid "Invalid selection."
+msgstr "Seleção inválida."
+
+#: scissors.php:1165
+#@ scissors
+msgid "Failed to resize image."
+msgstr "Falha ao redimensionar a imagem."
+
+#: scissors.php:1177
+#@ scissors
+msgid "Invalid destination dimensions."
+msgstr "Tamanho escolhido inválido."
+
+#: scissors.php:1198
+#: scissors.php:1234
+#@ scissors
+msgid "Invalid query."
+msgstr "Consulta inválida."
+
+#: scissors.php:1239
+#@ scissors
+msgid "Failed to load image."
+msgstr "Falha ao carregar imagem."
+
+#: scissors.php:1242
+#@ scissors
+msgid "Invalid post-id."
+msgstr "ID do post inválido."
+
+#: scissors.php:1245
+#@ scissors
+msgid "Unauthorized query."
+msgstr "Consulta não autorizada."
+
+#: scissors.php:738
+msgid "Settings"
+msgstr ""
+
+#: scissors.php:756
+#@ scissors
+msgid "Skip watermarking of images"
+msgstr "Não executar marca d'água nas imagens"
+
+#: scissors.php:761
+#@ scissors
+msgid "Skip scaling of full-size images"
+msgstr "Não redimensionar as imagens de tamanho máximo"
+

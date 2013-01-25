@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors 1.2.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-18 17:08+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Team Blogos <wordpress@blogos.dk>\n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;_nc:1,2;_n_noop:1,2\n"
+"X-Poedit-Basepath: d:\\wordpress\\plugins\\scissors\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\plugins\\scissors\n"
+
+#: d:\wordpress\plugins\scissors/scissors.php:227
+#: d:\wordpress\plugins\scissors/scissors.php:282
+msgid "Full size"
+msgstr "Fuld størrelse"
+
+#: d:\wordpress\plugins\scissors/scissors.php:228
+msgid "Max Width"
+msgstr "Max bredde"
+
+#: d:\wordpress\plugins\scissors/scissors.php:230
+msgid "Max Height"
+msgstr "Max højde"
+
+#: d:\wordpress\plugins\scissors/scissors.php:232
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Angiv 0 for at deaktivere ændring af størrelse i en dimension"
+
+#: d:\wordpress\plugins\scissors/scissors.php:234
+#: d:\wordpress\plugins\scissors/scissors.php:250
+msgid "Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr "Tilpasningsmodus: Begræns bredde af liggende og højde af liggende formater."
+
+#: d:\wordpress\plugins\scissors/scissors.php:245
+msgid "Crop medium images to exact dimensions (normally medium images are proportional)"
+msgstr "Beskær medium billeder til nøjagtige dimensioner (medium billeder er normalt proportionale)"
+
+#: d:\wordpress\plugins\scissors/scissors.php:247
+msgid "Crop large images to exact dimensions (normally large images are proportional)"
+msgstr "Beskær store billeder til nøjagtige dimensioner (store billeder er normalt proportionale)"
+
+#: d:\wordpress\plugins\scissors/scissors.php:291
+msgid "The Scissors image cropping functionality can be configured here ..."
+msgstr "Billedbeskæringsfunktionen i Scissor kan konfigureres her ..."
+
+#: d:\wordpress\plugins\scissors/scissors.php:296
+#: d:\wordpress\plugins\scissors/scissors.php:333
+msgid "Default aspect ratio"
+msgstr "Standard for proportionsforhold"
+
+#: d:\wordpress\plugins\scissors/scissors.php:298
+msgid "Maintain original aspect ratio."
+msgstr "Bevar original proportionsforhold."
+
+#: d:\wordpress\plugins\scissors/scissors.php:302
+#: d:\wordpress\plugins\scissors/scissors.php:925
+#, php-format
+msgid "Lock aspect ratio to %s."
+msgstr "Lås proportionsforhold til %s."
+
+#: d:\wordpress\plugins\scissors/scissors.php:305
+msgid "Do not lock aspect ratio."
+msgstr "Lås ikke proportionsforholdet."
+
+#: d:\wordpress\plugins\scissors/scissors.php:311
+#: d:\wordpress\plugins\scissors/scissors.php:334
+msgid "Default REIR state"
+msgstr "Brug REIR som standard"
+
+#: d:\wordpress\plugins\scissors/scissors.php:313
+msgid "enabled"
+msgstr "aktiveret"
+
+#: d:\wordpress\plugins\scissors/scissors.php:332
+msgid "Cropping"
+msgstr "Beskæring"
+
+#: d:\wordpress\plugins\scissors/scissors.php:693
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Scissors-pluginnet understøtter automatisk anbringelse af vandmærke. Konfigurér venligst funktionen her ..."
+
+#: d:\wordpress\plugins\scissors/scissors.php:699
+msgid "large"
+msgstr "stor"
+
+#: d:\wordpress\plugins\scissors/scissors.php:700
+msgid "medium"
+msgstr "medium"
+
+#: d:\wordpress\plugins\scissors/scissors.php:701
+msgid "thumbnail"
+msgstr "miniature"
+
+#: d:\wordpress\plugins\scissors/scissors.php:702
+#: d:\wordpress\plugins\scissors/scissors.php:947
+msgid "full"
+msgstr "hel"
+
+#: d:\wordpress\plugins\scissors/scissors.php:703
+msgid "custom"
+msgstr "brugerdefineret"
+
+#: d:\wordpress\plugins\scissors/scissors.php:723
+#: d:\wordpress\plugins\scissors/scissors.php:806
+msgid "Image"
+msgstr "Billede"
+
+#: d:\wordpress\plugins\scissors/scissors.php:725
+msgid "Select Image"
+msgstr "Vælg billede"
+
+#: d:\wordpress\plugins\scissors/scissors.php:726
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Klik på knappen, vælg et billede i Åbn-dialogboksen, og brug \"Indsæt i indlæg\" til at gennemføre valget."
+
+#: d:\wordpress\plugins\scissors/scissors.php:732
+#: d:\wordpress\plugins\scissors/scissors.php:807
+msgid "Size"
+msgstr "Størrelse"
+
+#: d:\wordpress\plugins\scissors/scissors.php:734
+msgid "Do not resize the watermark."
+msgstr "Ændr ikke størrelse på vandmærket."
+
+#: d:\wordpress\plugins\scissors/scissors.php:738
+#, php-format
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Begræns vandmærket til %s procent af billedarealet."
+
+#: d:\wordpress\plugins\scissors/scissors.php:745
+#: d:\wordpress\plugins\scissors/scissors.php:808
+msgid "Horizontal alignment"
+msgstr "Vandret justering"
+
+#: d:\wordpress\plugins\scissors/scissors.php:747
+msgid "Left"
+msgstr "Venstre"
+
+#: d:\wordpress\plugins\scissors/scissors.php:749
+msgid "Center"
+msgstr "Midt på"
+
+#: d:\wordpress\plugins\scissors/scissors.php:751
+msgid "Right"
+msgstr "Højre"
+
+#: d:\wordpress\plugins\scissors/scissors.php:758
+msgid "Top"
+msgstr "Top"
+
+#: d:\wordpress\plugins\scissors/scissors.php:760
+msgid "Middle"
+msgstr "Midt for"
+
+#: d:\wordpress\plugins\scissors/scissors.php:762
+msgid "Bottom"
+msgstr "Bund"
+
+#: d:\wordpress\plugins\scissors/scissors.php:804
+msgid "Watermarking"
+msgstr "Indsættelse af vandmærke"
+
+#: d:\wordpress\plugins\scissors/scissors.php:805
+msgid "Enable"
+msgstr "Aktivér"
+
+#: d:\wordpress\plugins\scissors/scissors.php:809
+msgid "Vertical alignment"
+msgstr "Lodret justering"
+
+#: d:\wordpress\plugins\scissors/scissors.php:818
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: d:\wordpress\plugins\scissors/scissors.php:836
+msgid "Skip watermarking of images"
+msgstr "Skip vandmærkning af billeder"
+
+#: d:\wordpress\plugins\scissors/scissors.php:841
+msgid "Skip scaling of full-size images"
+msgstr "Skip skalering af billeder i fuld størrelse"
+
+#: d:\wordpress\plugins\scissors/scissors.php:918
+msgid "Crop"
+msgstr "Beskær"
+
+#: d:\wordpress\plugins\scissors/scissors.php:919
+msgid "Resize"
+msgstr "Ændr størrelse"
+
+#: d:\wordpress\plugins\scissors/scissors.php:920
+msgid "Rotate"
+msgstr "Rotér"
+
+#: d:\wordpress\plugins\scissors/scissors.php:921
+msgid "Watermarks"
+msgstr "Vandmærker"
+
+#: d:\wordpress\plugins\scissors/scissors.php:922
+msgid "Apply"
+msgstr "Anvend"
+
+#: d:\wordpress\plugins\scissors/scissors.php:923
+msgid "Abort"
+msgstr "Afbryd"
+
+#: d:\wordpress\plugins\scissors/scissors.php:924
+#, php-format
+msgid "Crop %s."
+msgstr "Beskær %s."
+
+#: d:\wordpress\plugins\scissors/scissors.php:926
+msgid "width"
+msgstr "bredde"
+
+#: d:\wordpress\plugins\scissors/scissors.php:927
+msgid "height"
+msgstr "højde"
+
+#: d:\wordpress\plugins\scissors/scissors.php:928
+msgid "long side"
+msgstr "lange side"
+
+#: d:\wordpress\plugins\scissors/scissors.php:929
+msgid "short side"
+msgstr "korte side"
+
+#: d:\wordpress\plugins\scissors/scissors.php:930
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Brug automatisk relevans-udvidet billedreduktion."
+
+#: d:\wordpress\plugins\scissors/scissors.php:946
+msgid "full chain"
+msgstr "Alle størrelserne"
+
+#: d:\wordpress\plugins\scissors/scissors.php:988
+msgid "current"
+msgstr "aktuel"
+
+#: d:\wordpress\plugins\scissors/scissors.php:995
+#, php-format
+msgid "Resize to %s pixels."
+msgstr "Ændre størrelsen til %s pixels."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1002
+msgid "Maintain aspect ratio."
+msgstr "Lås proportionsforholdet."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1005
+msgid "Rotate by"
+msgstr "Rotér med"
+
+#: d:\wordpress\plugins\scissors/scissors.php:1006
+msgid "90 degrees left"
+msgstr "90&deg; mod venstre"
+
+#: d:\wordpress\plugins\scissors/scissors.php:1007
+msgid "90 degrees right"
+msgstr "90&deg; mod højre"
+
+#: d:\wordpress\plugins\scissors/scissors.php:1008
+msgid "180 degrees"
+msgstr "180&deg;"
+
+#: d:\wordpress\plugins\scissors/scissors.php:1084
+msgid "Invalid target."
+msgstr "Ugyldig destination."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1192
+#: d:\wordpress\plugins\scissors/scissors.php:1197
+#: d:\wordpress\plugins\scissors/scissors.php:1203
+#: d:\wordpress\plugins\scissors/scissors.php:1251
+msgid "Failed to save new image."
+msgstr "Det mislykkedes at gemme nyt billede."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1206
+msgid "Failed to crop image."
+msgstr "Det mislykkedes at beskære billedet."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1211
+#: d:\wordpress\plugins\scissors/scissors.php:1260
+msgid "Failed to allocate memory."
+msgstr "Det mislykkedes at tildele mere hukommelse."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1219
+msgid "Invalid selection."
+msgstr "Ugyldigt valg."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1254
+msgid "Failed to resize image."
+msgstr "Det mislykkedes at ændre billedstørrelsen."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1266
+msgid "Invalid destination dimensions."
+msgstr "Ugyldige dimensioner på destination."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1287
+#: d:\wordpress\plugins\scissors/scissors.php:1323
+msgid "Invalid query."
+msgstr "Ugyldig forespørgsel."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1328
+msgid "Failed to load image."
+msgstr "Det mislykkedes at indlæse billedet."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1331
+msgid "Invalid post-id."
+msgstr "Ugyldigt indlægs-id."
+
+#: d:\wordpress\plugins\scissors/scissors.php:1334
+msgid "Unauthorized query."
+msgstr "Ingen tilladelse til forespørgsel."
+
+#~ msgid "Add watermarks to images that are uploaded from now on."
+#~ msgstr "Tilføj vandmærker til billeder, der uploades fra nu af."
+#~ msgid "Add watermarks"
+#~ msgstr "Tilføj vandmærke"
+#~ msgid "Remove watermarks"
+#~ msgstr "Fjern vandmærker"
+#~ msgid "Invalid mode."
+#~ msgstr "Ugyldig modus."
+#~ msgid "Invalid side length."
+#~ msgstr "Ugyldig sidelængde."
+

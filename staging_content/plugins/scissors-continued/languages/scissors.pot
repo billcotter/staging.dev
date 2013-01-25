@@ -1,0 +1,324 @@
+# Localization template for Scissors.
+# Copyright (C) 2009 Stephan Reiter
+# This file is distributed under the same license as the Scissors package.
+# Stephan Reiter <stephan.reiter@gmail.com>, 2009.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/scissors\n"
+"POT-Creation-Date: 2009-10-17 15:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: scissors.php:227 scissors.php:267
+msgid "Full size"
+msgstr ""
+
+#: scissors.php:228
+msgid "Max Width"
+msgstr ""
+
+#: scissors.php:230
+msgid "Max Height"
+msgstr ""
+
+#: scissors.php:232
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr ""
+
+#: scissors.php:234 scissors.php:239
+msgid ""
+"Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr ""
+
+#: scissors.php:276
+msgid "The Scissors image cropping functionality can be configured here ..."
+msgstr ""
+
+#: scissors.php:281 scissors.php:318
+msgid "Default aspect ratio"
+msgstr ""
+
+#: scissors.php:283
+msgid "Maintain original aspect ratio."
+msgstr ""
+
+#: scissors.php:287 scissors.php:910
+#, php-format
+msgid "Lock aspect ratio to %s."
+msgstr ""
+
+#: scissors.php:290
+msgid "Do not lock aspect ratio."
+msgstr ""
+
+#: scissors.php:296 scissors.php:319
+msgid "Default REIR state"
+msgstr ""
+
+#: scissors.php:298
+msgid "enabled"
+msgstr ""
+
+#: scissors.php:317
+msgid "Cropping"
+msgstr ""
+
+#: scissors.php:678
+msgid ""
+"The Scissors plugin supports automatic watermarking of images. Please "
+"configure this feature here ..."
+msgstr ""
+
+#: scissors.php:684
+msgid "large"
+msgstr ""
+
+#: scissors.php:685
+msgid "medium"
+msgstr ""
+
+#: scissors.php:686
+msgid "thumbnail"
+msgstr ""
+
+#: scissors.php:687 scissors.php:932
+msgid "full"
+msgstr ""
+
+#: scissors.php:688
+msgid "custom"
+msgstr ""
+
+#: scissors.php:708 scissors.php:791
+msgid "Image"
+msgstr ""
+
+#: scissors.php:710
+msgid "Select Image"
+msgstr ""
+
+#: scissors.php:711
+msgid ""
+"Click the button, pick an image in the opening dialog, and use \"Insert into "
+"Post\" to make the selection."
+msgstr ""
+
+#: scissors.php:717 scissors.php:792
+msgid "Size"
+msgstr ""
+
+#: scissors.php:719
+msgid "Do not resize the watermark."
+msgstr ""
+
+#: scissors.php:723
+#, php-format
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr ""
+
+#: scissors.php:730 scissors.php:793
+msgid "Horizontal alignment"
+msgstr ""
+
+#: scissors.php:732
+msgid "left"
+msgstr ""
+
+#: scissors.php:734
+msgid "center"
+msgstr ""
+
+#: scissors.php:736
+msgid "right"
+msgstr ""
+
+#: scissors.php:743
+msgid "top"
+msgstr ""
+
+#: scissors.php:745
+msgid "middle"
+msgstr ""
+
+#: scissors.php:747
+msgid "bottom"
+msgstr ""
+
+#: scissors.php:789
+msgid "Watermarking"
+msgstr ""
+
+#: scissors.php:790
+msgid "Enable"
+msgstr ""
+
+#: scissors.php:794
+msgid "Vertical alignment"
+msgstr ""
+
+#: scissors.php:803
+msgid "Settings"
+msgstr ""
+
+#: scissors.php:821
+msgid "Skip watermarking of images"
+msgstr ""
+
+#: scissors.php:826
+msgid "Skip scaling of full-size images"
+msgstr ""
+
+#: scissors.php:903
+msgid "Crop"
+msgstr ""
+
+#: scissors.php:904
+msgid "Resize"
+msgstr ""
+
+#: scissors.php:905
+msgid "Rotate"
+msgstr ""
+
+#: scissors.php:906
+msgid "Watermarks"
+msgstr ""
+
+#: scissors.php:907
+msgid "Apply"
+msgstr ""
+
+#: scissors.php:908
+msgid "Abort"
+msgstr ""
+
+#: scissors.php:909
+#, php-format
+msgid "Crop %s."
+msgstr ""
+
+#: scissors.php:911
+msgid "width"
+msgstr ""
+
+#: scissors.php:912
+msgid "height"
+msgstr ""
+
+#: scissors.php:913
+msgid "long side"
+msgstr ""
+
+#: scissors.php:914
+msgid "short side"
+msgstr ""
+
+#: scissors.php:915
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr ""
+
+#: scissors.php:931
+msgid "full chain"
+msgstr ""
+
+#: scissors.php:973
+msgid "current"
+msgstr ""
+
+#: scissors.php:980
+#, php-format
+msgid "Resize to %s pixels."
+msgstr ""
+
+#: scissors.php:987
+msgid "Maintain aspect ratio."
+msgstr ""
+
+#: scissors.php:990
+msgid "Rotate by"
+msgstr ""
+
+#: scissors.php:991
+msgid "90 degrees left"
+msgstr ""
+
+#: scissors.php:992
+msgid "90 degrees right"
+msgstr ""
+
+#: scissors.php:993
+msgid "180 degrees"
+msgstr ""
+
+#: scissors.php:1069
+msgid "Invalid target."
+msgstr ""
+
+#: scissors.php:1177 scissors.php:1182 scissors.php:1188 scissors.php:1236
+msgid "Failed to save new image."
+msgstr ""
+
+#: scissors.php:1191
+msgid "Failed to crop image."
+msgstr ""
+
+#: scissors.php:1196 scissors.php:1245
+msgid "Failed to allocate memory."
+msgstr ""
+
+#: scissors.php:1204
+msgid "Invalid selection."
+msgstr ""
+
+#: scissors.php:1239
+msgid "Failed to resize image."
+msgstr ""
+
+#: scissors.php:1251
+msgid "Invalid destination dimensions."
+msgstr ""
+
+#: scissors.php:1272 scissors.php:1308
+msgid "Invalid query."
+msgstr ""
+
+#: scissors.php:1313
+msgid "Failed to load image."
+msgstr ""
+
+#: scissors.php:1316
+msgid "Invalid post-id."
+msgstr ""
+
+#: scissors.php:1319
+msgid "Unauthorized query."
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Scissors"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://stephanreiter.info/2008/10/wordpress-plugin-scissors/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Scissors enhances WordPress' handling of images by introducing cropping, "
+"resizing, rotating, and watermarking functionality."
+msgstr ""
+
+#. Author of an extension
+msgid "Stephan Reiter"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://stephanreiter.info/"
+msgstr ""

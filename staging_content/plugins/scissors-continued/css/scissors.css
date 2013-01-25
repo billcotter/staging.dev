@@ -1,0 +1,18 @@
+.scissorsPane {
+	display: none;
+}
+
+.scissorsWaitFld {
+	background: url(ajax-loader.gif);
+	width: 220px;
+	height: 19px;
+}
+
+.scissorsImgHost {
+	display: block;
+	margin-top: 4px;
+}
+
+.align_watermark {
+	margin: 0 1em 0 0;
+}

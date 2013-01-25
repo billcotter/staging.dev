@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-05-11 22:39+0400\n"
+"Last-Translator: Videodesigner <acidrains@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: scissors.php:214
+#: scissors.php:254
+#@ scissors
+msgid "Full size"
+msgstr "Полный размер"
+
+#: scissors.php:215
+msgid "Max Width"
+msgstr "Макс. ширина"
+
+#: scissors.php:217
+msgid "Max Height"
+msgstr "Макс. высота"
+
+#: scissors.php:219
+#@ scissors
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Задайте 0, чтобы отключить изменение размера в одном из направлений."
+
+#: scissors.php:613
+#@ scissors
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Плагин Scissors поддерживает автоматическую маркировку водяными знаками. Пожалуйста настройте эту функцию здесь ..."
+
+#: scissors.php:643
+#: scissors.php:726
+#@ scissors
+msgid "Image"
+msgstr "Изображение"
+
+#: scissors.php:645
+#@ scissors
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: scissors.php:646
+#@ scissors
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Нажмите на кнопку, выберите изображение в открывающемся диалоге, и используйте \"Вставить в запись\"  чтобы сделать выбор."
+
+#: scissors.php:652
+#: scissors.php:727
+#@ scissors
+msgid "Size"
+msgstr "Размер"
+
+#: scissors.php:654
+#@ scissors
+msgid "Do not resize the watermark."
+msgstr "Не изменять размер водяного знака."
+
+#: scissors.php:658
+#, php-format
+#@ scissors
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Ограничить водяной знак %s процентами от конечного размера изображения."
+
+#: scissors.php:665
+#: scissors.php:728
+#@ scissors
+msgid "Horizontal alignment"
+msgstr "Горизонтальное выравнивание"
+
+#: scissors.php:667
+msgid "left"
+msgstr "По левому краю"
+
+#: scissors.php:669
+msgid "center"
+msgstr "По центру"
+
+#: scissors.php:671
+msgid "right"
+msgstr "По правому краю"
+
+#: scissors.php:678
+msgid "top"
+msgstr "По верхнему краю"
+
+#: scissors.php:680
+msgid "middle"
+msgstr "По центру"
+
+#: scissors.php:682
+msgid "bottom"
+msgstr "По нижнему краю"
+
+#: scissors.php:724
+#@ scissors
+msgid "Watermarking"
+msgstr "Водяные знаки"
+
+#: scissors.php:725
+#@ scissors
+msgid "Enable"
+msgstr "Разрешить"
+
+#: scissors.php:729
+#@ scissors
+msgid "Vertical alignment"
+msgstr "Вертикальное выравнивание"
+
+#: scissors.php:845
+#@ scissors
+msgid "Crop"
+msgstr "Кадрировать"
+
+#: scissors.php:846
+#@ scissors
+msgid "Resize"
+msgstr "Изменение размера"
+
+#: scissors.php:847
+#@ scissors
+msgid "Rotate"
+msgstr "Повернуть"
+
+#: scissors.php:848
+#@ scissors
+msgid "Watermarks"
+msgstr "Водяные знаки"
+
+#: scissors.php:850
+#@ scissors
+msgid "Abort"
+msgstr "Прервать"
+
+#: scissors.php:851
+#, php-format
+#@ scissors
+msgid "Crop %s."
+msgstr "Кадрирование %s."
+
+#: scissors.php:852
+#, php-format
+#@ scissors
+msgid "Lock aspect ratio to %s."
+msgstr "Сохранять соотношение пропорций %s."
+
+#: scissors.php:853
+#@ scissors
+msgid "width"
+msgstr "ширина"
+
+#: scissors.php:854
+#@ scissors
+msgid "height"
+msgstr "высота"
+
+#: scissors.php:855
+#@ scissors
+msgid "long side"
+msgstr "длинная сторона"
+
+#: scissors.php:856
+#@ scissors
+msgid "short side"
+msgstr "короткая сторона"
+
+#: scissors.php:857
+#@ scissors
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Использование улучшенного автоматического уменьшения изображения."
+
+#: scissors.php:873
+#@ scissors
+msgid "full chain"
+msgstr "полная цепь"
+
+#: scissors.php:622
+#: scissors.php:874
+#@ scissors
+msgid "full"
+msgstr "полное"
+
+#: scissors.php:619
+#@ scissors
+msgid "large"
+msgstr "большое"
+
+#: scissors.php:620
+#@ scissors
+msgid "medium"
+msgstr "среднее"
+
+#: scissors.php:621
+#@ scissors
+msgid "thumbnail"
+msgstr "миниатюра"
+
+#: scissors.php:916
+#@ scissors
+msgid "Rotate by"
+msgstr "Повернуть на"
+
+#: scissors.php:917
+#@ scissors
+msgid "90 degrees left"
+msgstr "90 градусов влево"
+
+#: scissors.php:918
+#@ scissors
+msgid "90 degrees right"
+msgstr "90 градусов вправо"
+
+#: scissors.php:919
+#@ scissors
+msgid "180 degrees"
+msgstr "180 градусов"
+
+#: scissors.php:995
+#@ scissors
+msgid "Invalid target."
+msgstr "Недопустимое значение."
+
+#: scissors.php:1103
+#: scissors.php:1108
+#: scissors.php:1114
+#: scissors.php:1162
+#@ scissors
+msgid "Failed to save new image."
+msgstr "Не удалось сохранить новое изображение."
+
+#: scissors.php:1117
+#@ scissors
+msgid "Failed to crop image."
+msgstr "Не удалось кадрировать изображение."
+
+#: scissors.php:1122
+#: scissors.php:1171
+#@ scissors
+msgid "Failed to allocate memory."
+msgstr "Не удалось выделить память."
+
+#: scissors.php:1130
+#@ scissors
+msgid "Invalid selection."
+msgstr "Неправильный выбор."
+
+#: scissors.php:1165
+#@ scissors
+msgid "Failed to resize image."
+msgstr "Не удалось изменить размер изображения."
+
+#: scissors.php:1177
+#@ scissors
+msgid "Invalid destination dimensions."
+msgstr "Неверные значения размеров."
+
+#: scissors.php:1198
+#: scissors.php:1234
+#@ scissors
+msgid "Invalid query."
+msgstr "Неверный запрос."
+
+#: scissors.php:1239
+#@ scissors
+msgid "Failed to load image."
+msgstr "Ошибка при загрузке изображения."
+
+#: scissors.php:1242
+#@ scissors
+msgid "Invalid post-id."
+msgstr "Неправильный ID записи."
+
+#: scissors.php:1245
+#@ scissors
+msgid "Unauthorized query."
+msgstr "Несанкционированный запрос."
+
+#: scissors.php:221
+#: scissors.php:226
+#@ scissors
+msgid "Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr "Адаптивный режим: ограничить ширину изображения в альбомной ориентации и высоту изображения в книжной ориентации."
+
+#: scissors.php:623
+#@ scissors
+msgid "custom"
+msgstr "пользовательские"
+
+#: scissors.php:849
+#@ scissors
+msgid "Apply"
+msgstr "Применить"
+
+#: scissors.php:908
+#, php-format
+#@ scissors
+msgid "Resize to %s pixels."
+msgstr "Изменить размер %s пикселов."
+
+#: scissors.php:913
+#@ scissors
+msgid "Maintain aspect ratio."
+msgstr "Сохранять пропорции."
+
+#: scissors.php:738
+msgid "Settings"
+msgstr ""
+
+#: scissors.php:756
+#@ scissors
+msgid "Skip watermarking of images"
+msgstr "Пропустить добавление водяных знаков"
+
+#: scissors.php:761
+#@ scissors
+msgid "Skip scaling of full-size images"
+msgstr "Пропустить масштабирование полноразмерных изображений"
+

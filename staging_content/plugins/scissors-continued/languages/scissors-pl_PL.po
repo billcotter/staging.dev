@@ -1,0 +1,303 @@
+# Localization template for Scissors.
+# Copyright (C) 2008 Stephan Reiter
+# This file is distributed under the same license as the Scissors package.
+# Stephan Reiter <stephan.reiter@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors po polsku\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/scissors\n"
+"POT-Creation-Date: 2009-08-12 05:00+0000\n"
+"PO-Revision-Date: 2009-10-22 10:39+0100\n"
+"Last-Translator: Kamil Cichocki\n"
+"Language-Team: Kamil Cichocki <blumaremail@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+
+#: scissors.php:214
+#: scissors.php:254
+msgid "Full size"
+msgstr "Pełny rozmiar"
+
+#: scissors.php:215
+msgid "Max Width"
+msgstr "Maksymalna szerokość"
+
+#: scissors.php:217
+msgid "Max Height"
+msgstr "Maksymalna wysokość"
+
+#: scissors.php:219
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Wpisz 0, aby wyłączyć rozmiar w szczególny wymiarze."
+
+#: scissors.php:221
+#: scissors.php:226
+msgid "Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr "Tryb adaptacyjny: limit szerokości obrazków krajobrazu i wysokości obrazków portretowych."
+
+#: scissors.php:613
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Wtyczka Nożyczki obsługuje automatyczny znak wodny do znakowania obrazków. Proszę skonfigurować tę funkcję tutaj..."
+
+#: scissors.php:619
+msgid "large"
+msgstr "duży"
+
+#: scissors.php:620
+msgid "medium"
+msgstr "średni"
+
+#: scissors.php:621
+msgid "thumbnail"
+msgstr "miniatura"
+
+#: scissors.php:622
+#: scissors.php:874
+msgid "full"
+msgstr "oryginalny rozmiar"
+
+#: scissors.php:623
+msgid "custom"
+msgstr "własny"
+
+#: scissors.php:643
+#: scissors.php:726
+msgid "Image"
+msgstr "Obrazek"
+
+#: scissors.php:645
+msgid "Select Image"
+msgstr "Wybierz obrazek"
+
+#: scissors.php:646
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Kliknij przycisk, wybierz ikonkę obrazka w oknie dialogowym otwierania i użyj  \"Dodaj do artykuły \", aby dokonać wyboru."
+
+#: scissors.php:652
+#: scissors.php:727
+msgid "Size"
+msgstr "Rozmiar"
+
+#: scissors.php:654
+msgid "Do not resize the watermark."
+msgstr "Nie zmieniaj rozmiaru znaku wodnego."
+
+#: scissors.php:658
+#, php-format
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Limit znaku wodnego w %s procentach na powierzchni obrazu."
+
+#: scissors.php:665
+#: scissors.php:728
+msgid "Horizontal alignment"
+msgstr "Wyrównanie poziome"
+
+#: scissors.php:667
+msgid "left"
+msgstr "lewo"
+
+#: scissors.php:669
+msgid "center"
+msgstr "wycentrowanie"
+
+#: scissors.php:671
+msgid "right"
+msgstr "prawo"
+
+#: scissors.php:678
+msgid "top"
+msgstr "góra"
+
+#: scissors.php:680
+msgid "middle"
+msgstr "środek"
+
+#: scissors.php:682
+msgid "bottom"
+msgstr "przycisk"
+
+#: scissors.php:724
+msgid "Watermarking"
+msgstr "Oznakowanie wodne"
+
+#: scissors.php:725
+msgid "Enable"
+msgstr "Włączony"
+
+#: scissors.php:729
+msgid "Vertical alignment"
+msgstr "Wyrównanie w poziome"
+
+#: scissors.php:738
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: scissors.php:756
+msgid "Skip watermarking of images"
+msgstr "Pomiń znakowanie obrazka"
+
+#: scissors.php:761
+msgid "Skip scaling of full-size images"
+msgstr "Pomiń skalowanie obrazu w pełnym rozmiarze"
+
+#: scissors.php:845
+msgid "Crop"
+msgstr "Kadrowanie"
+
+#: scissors.php:846
+msgid "Resize"
+msgstr "Zmień wielkość"
+
+#: scissors.php:847
+msgid "Rotate"
+msgstr "Obracanie"
+
+#: scissors.php:848
+msgid "Watermarks"
+msgstr "Znak wodny"
+
+#: scissors.php:849
+msgid "Apply"
+msgstr "Zastosuj"
+
+#: scissors.php:850
+msgid "Abort"
+msgstr "Anuluj"
+
+#: scissors.php:851
+#, php-format
+msgid "Crop %s."
+msgstr "Kadrowanie %s."
+
+#: scissors.php:852
+#, php-format
+msgid "Lock aspect ratio to %s."
+msgstr "Zablokuj współczynnik proporcji do %s."
+
+#: scissors.php:853
+msgid "width"
+msgstr "szerokość"
+
+#: scissors.php:854
+msgid "height"
+msgstr "wysokość"
+
+#: scissors.php:855
+msgid "long side"
+msgstr "dłuższy bok"
+
+#: scissors.php:856
+msgid "short side"
+msgstr "krótszy bok"
+
+#: scissors.php:857
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Korzysta z automatycznego znaczenie.  Wspomaga w zmniejszaniu obrazka."
+
+#: scissors.php:873
+msgid "full chain"
+msgstr "pełne zaznaczenie"
+
+#: scissors.php:908
+#, php-format
+msgid "Resize to %s pixels."
+msgstr "Zmień rozmiar obrazka %s pixeli."
+
+#: scissors.php:913
+msgid "Maintain aspect ratio."
+msgstr "Zachowaj proporcje."
+
+#: scissors.php:916
+msgid "Rotate by"
+msgstr "Obróć o"
+
+#: scissors.php:917
+msgid "90 degrees left"
+msgstr "90 stopni w lewo"
+
+#: scissors.php:918
+msgid "90 degrees right"
+msgstr "90 stopni w prawo"
+
+#: scissors.php:919
+msgid "180 degrees"
+msgstr "180 stopni"
+
+#: scissors.php:995
+msgid "Invalid target."
+msgstr "Nieprawidłowy cel."
+
+#: scissors.php:1103
+#: scissors.php:1108
+#: scissors.php:1114
+#: scissors.php:1162
+msgid "Failed to save new image."
+msgstr "Nie można zapisać nowego obrazu."
+
+#: scissors.php:1117
+msgid "Failed to crop image."
+msgstr "Nie można skadrować obrazu."
+
+#: scissors.php:1122
+#: scissors.php:1171
+msgid "Failed to allocate memory."
+msgstr "Nie można przydzielić pamięci."
+
+#: scissors.php:1130
+msgid "Invalid selection."
+msgstr "Nieprawidłowe zaznaczenie."
+
+#: scissors.php:1165
+msgid "Failed to resize image."
+msgstr "Nie można zmienić rozmiaru obrazka."
+
+#: scissors.php:1177
+msgid "Invalid destination dimensions."
+msgstr "Nieprawidłowe wymiary przeznaczenia."
+
+#: scissors.php:1198
+#: scissors.php:1234
+msgid "Invalid query."
+msgstr "Nieprawidłowe zapytanie."
+
+#: scissors.php:1239
+msgid "Failed to load image."
+msgstr "Nie można załadować obrazka."
+
+#: scissors.php:1242
+msgid "Invalid post-id."
+msgstr "Nieprawidłowy ID artykułu."
+
+#: scissors.php:1245
+msgid "Unauthorized query."
+msgstr "Nieautoryzowane zapytanie."
+
+#. Plugin Name of an extension
+msgid "Scissors"
+msgstr "Nożyczki"
+
+#. Plugin URI of an extension
+msgid "http://stephanreiter.info/2008/10/wordpress-plugin-scissors/"
+msgstr "http://stephanreiter.info/2008/10/wordpress-plugin-scissors/"
+
+#. Description of an extension
+msgid "Scissors enhances WordPress' handling of images by introducing cropping, resizing, rotating, and watermarking functionality."
+msgstr "Nożyczki poprawiają obsługę WordPress \"obrazków przez wprowadzenie kadrowania, zmianę rozmiaru, obracanie i funkcjonalność znaku wodnego."
+
+#. Author of an extension
+msgid "Stephan Reiter"
+msgstr "Stephan Reiter"
+
+#. Author URI of an extension
+msgid "http://stephanreiter.info/"
+msgstr "http://stephanreiter.info/"
+
+#~ msgid "Add watermarks"
+#~ msgstr "Aggiungi filigrana"
+#~ msgid "Remove watermarks"
+#~ msgstr "Rimuovi filigrana"
+

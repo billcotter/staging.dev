@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors v1.2.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-10-19 07:05-0500\n"
+"Last-Translator: Marius Butuc <http://purl.oclc.org/net/mariusb>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: scissors.php:227
+#: scissors.php:282
+#@ scissors
+msgid "Full size"
+msgstr "Talie originală"
+
+#: scissors.php:228
+msgid "Max Width"
+msgstr ""
+
+#: scissors.php:230
+msgid "Max Height"
+msgstr ""
+
+#: scissors.php:232
+#@ scissors
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Folosiți 0 pentru a dezactiva redimensionarea pe o dimensiune în particular."
+
+#: scissors.php:234
+#: scissors.php:250
+#@ scissors
+msgid "Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr "Mod adaptiv: Limitează lățimea imaginilor panoramă şi înălţimea imaginilor portret."
+
+#: scissors.php:245
+#@ scissors
+msgid "Crop medium images to exact dimensions (normally medium images are proportional)"
+msgstr "Decupează imaginile de dimensiuni medii la dimensiuni exacte (în mod normal, imaginile de dimensiuni medii sunt proporţionale)"
+
+#: scissors.php:247
+#@ scissors
+msgid "Crop large images to exact dimensions (normally large images are proportional)"
+msgstr "Decupează imaginile de dimensiuni mari la dimensiuni exacte (în mod normal, imaginile de dimensiuni mari sunt proporţionale)"
+
+#: scissors.php:291
+#@ scissors
+msgid "The Scissors image cropping functionality can be configured here ..."
+msgstr "Funcționalitățile Scissors de decupare de imagini pot fi configurate aici ..."
+
+#: scissors.php:296
+#: scissors.php:333
+#@ scissors
+msgid "Default aspect ratio"
+msgstr "Aspect imagine implicit"
+
+#: scissors.php:298
+#@ scissors
+msgid "Maintain original aspect ratio."
+msgstr "Păstrează aspectul original al imaginii"
+
+#: scissors.php:302
+#: scissors.php:925
+#, php-format
+#@ scissors
+msgid "Lock aspect ratio to %s."
+msgstr "Blochează aspectul imaginii la %s."
+
+#: scissors.php:305
+#@ scissors
+msgid "Do not lock aspect ratio."
+msgstr "Nu bloca aspectul imaginii."
+
+#: scissors.php:311
+#: scissors.php:334
+#@ scissors
+msgid "Default REIR state"
+msgstr "Starea REIR implicită"
+
+#: scissors.php:313
+#@ scissors
+msgid "enabled"
+msgstr "activat"
+
+#: scissors.php:332
+#@ scissors
+msgid "Cropping"
+msgstr "Decupare"
+
+#: scissors.php:693
+#@ scissors
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Scissors suportă suprapunerea automată a unui watermark pe imagini. Vă rugăm să configurați această facilitate aici ..."
+
+#: scissors.php:699
+#@ scissors
+msgid "large"
+msgstr "mare"
+
+#: scissors.php:700
+#@ scissors
+msgid "medium"
+msgstr "mediu"
+
+#: scissors.php:701
+#@ scissors
+msgid "thumbnail"
+msgstr "miniatură"
+
+#: scissors.php:702
+#: scissors.php:947
+#@ scissors
+msgid "full"
+msgstr "complet"
+
+#: scissors.php:703
+#@ scissors
+msgid "custom"
+msgstr "personalizat"
+
+#: scissors.php:723
+#: scissors.php:806
+#@ scissors
+msgid "Image"
+msgstr "Imagine"
+
+#: scissors.php:725
+#@ scissors
+msgid "Select Image"
+msgstr "Selectați imaginea"
+
+#: scissors.php:726
+#@ scissors
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Faceţi clic pe buton, alegeţi o imagine în caseta de dialog, şi folosiți \"Inserează în Post\" pentru a selecta."
+
+#: scissors.php:732
+#: scissors.php:807
+#@ scissors
+msgid "Size"
+msgstr "Dimensiune"
+
+#: scissors.php:734
+#@ scissors
+msgid "Do not resize the watermark."
+msgstr "Nu redimensiona watermark-ul"
+
+#: scissors.php:738
+#, php-format
+#@ scissors
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Limitează watermark-ul la %s procente din suprafata imaginii destinaţie."
+
+#: scissors.php:745
+#: scissors.php:808
+#@ scissors
+msgid "Horizontal alignment"
+msgstr "Aliniere orizontală"
+
+#: scissors.php:747
+msgid "Left"
+msgstr ""
+
+#: scissors.php:749
+msgid "Center"
+msgstr ""
+
+#: scissors.php:751
+msgid "Right"
+msgstr ""
+
+#: scissors.php:758
+msgid "Top"
+msgstr ""
+
+#: scissors.php:760
+msgid "Middle"
+msgstr ""
+
+#: scissors.php:762
+msgid "Bottom"
+msgstr ""
+
+#: scissors.php:804
+#@ scissors
+msgid "Watermarking"
+msgstr "Adăugare de watermark"
+
+#: scissors.php:805
+#@ scissors
+msgid "Enable"
+msgstr "Activare"
+
+#: scissors.php:809
+#@ scissors
+msgid "Vertical alignment"
+msgstr "Aliniere verticală"
+
+#: scissors.php:818
+msgid "Settings"
+msgstr ""
+
+#: scissors.php:836
+#@ scissors
+msgid "Skip watermarking of images"
+msgstr "Omite adăugarea de watermark peste imagini"
+
+#: scissors.php:841
+#@ scissors
+msgid "Skip scaling of full-size images"
+msgstr "Omite scalarea imaginilor complete"
+
+#: scissors.php:918
+#@ scissors
+msgid "Crop"
+msgstr "Decupare"
+
+#: scissors.php:919
+#@ scissors
+msgid "Resize"
+msgstr "Redimensionare"
+
+#: scissors.php:920
+#@ scissors
+msgid "Rotate"
+msgstr "Rotire"
+
+#: scissors.php:921
+#@ scissors
+msgid "Watermarks"
+msgstr "Watermark-uri"
+
+#: scissors.php:922
+#@ scissors
+msgid "Apply"
+msgstr "Aplică"
+
+#: scissors.php:923
+#@ scissors
+msgid "Abort"
+msgstr "Renunță"
+
+#: scissors.php:924
+#, php-format
+#@ scissors
+msgid "Crop %s."
+msgstr "Decupează %s."
+
+#: scissors.php:926
+#@ scissors
+msgid "width"
+msgstr "lățime"
+
+#: scissors.php:927
+#@ scissors
+msgid "height"
+msgstr "înălțime"
+
+#: scissors.php:928
+#@ scissors
+msgid "long side"
+msgstr "latura mare"
+
+#: scissors.php:929
+#@ scissors
+msgid "short side"
+msgstr "latura mică"
+
+#: scissors.php:930
+#@ scissors
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Folosește automat REIR."
+
+#: scissors.php:946
+#@ scissors
+msgid "full chain"
+msgstr "lanț complet"
+
+#: scissors.php:988
+#@ scissors
+msgid "current"
+msgstr "actual"
+
+#: scissors.php:995
+#, php-format
+#@ scissors
+msgid "Resize to %s pixels."
+msgstr "Redimensionează la %s pixeli."
+
+#: scissors.php:1002
+#@ scissors
+msgid "Maintain aspect ratio."
+msgstr "Păstrează aspectul imaginii."
+
+#: scissors.php:1005
+#@ scissors
+msgid "Rotate by"
+msgstr "Rotește cu"
+
+#: scissors.php:1006
+#@ scissors
+msgid "90 degrees left"
+msgstr "90 de grade la stânga"
+
+#: scissors.php:1007
+#@ scissors
+msgid "90 degrees right"
+msgstr "90 de grade la dreapta"
+
+#: scissors.php:1008
+#@ scissors
+msgid "180 degrees"
+msgstr "180 de grade"
+
+#: scissors.php:1084
+#@ scissors
+msgid "Invalid target."
+msgstr "Ţintă invalidă."
+
+#: scissors.php:1192
+#: scissors.php:1197
+#: scissors.php:1203
+#: scissors.php:1251
+#@ scissors
+msgid "Failed to save new image."
+msgstr "Nu am reușit să salvez noua imagine."
+
+#: scissors.php:1206
+#@ scissors
+msgid "Failed to crop image."
+msgstr "Nu am reușit să decupez imaginea."
+
+#: scissors.php:1211
+#: scissors.php:1260
+#@ scissors
+msgid "Failed to allocate memory."
+msgstr "Nu am reușit să aloc memorie."
+
+#: scissors.php:1219
+#@ scissors
+msgid "Invalid selection."
+msgstr "Selecție invalidă."
+
+#: scissors.php:1254
+#@ scissors
+msgid "Failed to resize image."
+msgstr "Nu am reușit să redimensionez imaginea."
+
+#: scissors.php:1266
+#@ scissors
+msgid "Invalid destination dimensions."
+msgstr "Dimensiunile destinației sunt invalide."
+
+#: scissors.php:1287
+#: scissors.php:1323
+#@ scissors
+msgid "Invalid query."
+msgstr "Interogare incorectă."
+
+#: scissors.php:1328
+#@ scissors
+msgid "Failed to load image."
+msgstr "Nu am reușit să încarc imaginea."
+
+#: scissors.php:1331
+#@ scissors
+msgid "Invalid post-id."
+msgstr "Post-id incorect."
+
+#: scissors.php:1334
+#@ scissors
+msgid "Unauthorized query."
+msgstr "Interogare neautorizată."
+

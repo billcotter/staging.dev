@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/scissors\n"
+"POT-Creation-Date: 2009-10-17 15:36+0000\n"
+"PO-Revision-Date: 2009-10-29 22:56-0800\n"
+"Last-Translator: edds <marhelis@inbox.lv>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: scissors.php:227
+#: scissors.php:282
+#@ scissors
+msgid "Full size"
+msgstr "Pilns izmērs"
+
+#: scissors.php:228
+msgid "Max Width"
+msgstr "Maksimālais platums"
+
+#: scissors.php:230
+msgid "Max Height"
+msgstr "Maksimālais augstums"
+
+#: scissors.php:232
+#@ scissors
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Norādīt 0 lai izslēgtu izmēru maiņu šai dimensijai."
+
+#: scissors.php:234
+#: scissors.php:250
+#@ scissors
+msgid "Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr "Adaptīvais veids: Ierobežots platums ainavu attēliem un augstums portreta attēliem."
+
+#: scissors.php:291
+#@ scissors
+msgid "The Scissors image cropping functionality can be configured here ..."
+msgstr "Scissors attēla apgriešanas funkcijas var konfigurēt šeit ..."
+
+#: scissors.php:296
+#: scissors.php:333
+#@ scissors
+msgid "Default aspect ratio"
+msgstr "Noklusētā izmēra attiecība"
+
+#: scissors.php:298
+#@ scissors
+msgid "Maintain original aspect ratio."
+msgstr "Saglabāt orģinālo izmēra attiecību."
+
+#: scissors.php:302
+#: scissors.php:939
+#, php-format
+#@ scissors
+msgid "Lock aspect ratio to %s."
+msgstr "Saslēgt izmēra attiecību uz %s."
+
+#: scissors.php:305
+#@ scissors
+msgid "Do not lock aspect ratio."
+msgstr "Nesaslēgt izmēra attiecību."
+
+#: scissors.php:311
+#: scissors.php:334
+#@ scissors
+msgid "Default REIR state"
+msgstr "Noklusētais REIR stāvoklis"
+
+#: scissors.php:313
+#@ scissors
+msgid "enabled"
+msgstr "atļauts"
+
+#: scissors.php:332
+#@ scissors
+msgid "Cropping"
+msgstr "Samazināšana"
+
+#: scissors.php:693
+#@ scissors
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Scissors spraudnis atbalsta automātisko ūdenszīmēm attēliem. Lūdzu konfigurēt šo iespēju šeit ..."
+
+#: scissors.php:699
+#@ scissors
+msgid "large"
+msgstr "liela"
+
+#: scissors.php:700
+#@ scissors
+msgid "medium"
+msgstr "vidēja"
+
+#: scissors.php:701
+#@ scissors
+msgid "thumbnail"
+msgstr "ikona"
+
+#: scissors.php:702
+#: scissors.php:961
+#@ scissors
+msgid "full"
+msgstr "pilna"
+
+#: scissors.php:703
+#@ scissors
+msgid "custom"
+msgstr "parasti"
+
+#: scissors.php:723
+#: scissors.php:806
+#@ scissors
+msgid "Image"
+msgstr "Attēls"
+
+#: scissors.php:725
+#@ scissors
+msgid "Select Image"
+msgstr "Izvēlēties attēlu"
+
+#: scissors.php:726
+#@ scissors
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Noklikšķiniet uz pogas, izvēlieties attēlu dialoga logā, un izmantot  \"INSERT INTO Post \", lai veiktu izvēli."
+
+#: scissors.php:732
+#: scissors.php:807
+#@ scissors
+msgid "Size"
+msgstr "Izmērs"
+
+#: scissors.php:734
+#@ scissors
+msgid "Do not resize the watermark."
+msgstr "Nesamazināt ūdenszīmi"
+
+#: scissors.php:738
+#, php-format
+#@ scissors
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "\tLimitēt ūdenszīmi uz% s procentus no galamērķa attēlam. "
+
+#: scissors.php:745
+#: scissors.php:808
+#@ scissors
+msgid "Horizontal alignment"
+msgstr "Horizontālais novietojums"
+
+#: scissors.php:804
+#@ scissors
+msgid "Watermarking"
+msgstr "Udenszīme"
+
+#: scissors.php:805
+#@ scissors
+msgid "Enable"
+msgstr "Atļauts"
+
+#: scissors.php:809
+#@ scissors
+msgid "Vertical alignment"
+msgstr "Vertikālais novietojums"
+
+#: scissors.php:818
+msgid "Settings"
+msgstr "Uzstādijumi"
+
+#: scissors.php:836
+#@ scissors
+msgid "Skip watermarking of images"
+msgstr "Izlaist udenszīmju likšanu bildēm"
+
+#: scissors.php:841
+#@ scissors
+msgid "Skip scaling of full-size images"
+msgstr "Izlaist samazināšanu pilna izmēra bildēm"
+
+#: scissors.php:932
+#@ scissors
+msgid "Crop"
+msgstr "Samazināt"
+
+#: scissors.php:933
+#@ scissors
+msgid "Resize"
+msgstr "Izmainīt"
+
+#: scissors.php:934
+#@ scissors
+msgid "Rotate"
+msgstr "Rotēt"
+
+#: scissors.php:935
+#@ scissors
+msgid "Watermarks"
+msgstr "Udenszīmes"
+
+#: scissors.php:936
+#@ scissors
+msgid "Apply"
+msgstr "Apstiprināt"
+
+#: scissors.php:937
+#@ scissors
+msgid "Abort"
+msgstr "Atcelt"
+
+#: scissors.php:938
+#, php-format
+#@ scissors
+msgid "Crop %s."
+msgstr "Samazināt %s."
+
+#: scissors.php:940
+#@ scissors
+msgid "width"
+msgstr "platums"
+
+#: scissors.php:941
+#@ scissors
+msgid "height"
+msgstr "augstums"
+
+#: scissors.php:942
+#@ scissors
+msgid "long side"
+msgstr "garā mala"
+
+#: scissors.php:943
+#@ scissors
+msgid "short side"
+msgstr "īsā mala"
+
+#: scissors.php:944
+#@ scissors
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Izmantojiet automātisko atbilstību uzlabotai attēla samazināšanai."
+
+#: scissors.php:960
+#@ scissors
+msgid "full chain"
+msgstr "pilna ķēde"
+
+#: scissors.php:1002
+#@ scissors
+msgid "current"
+msgstr "šī brīža"
+
+#: scissors.php:1009
+#, php-format
+#@ scissors
+msgid "Resize to %s pixels."
+msgstr "Izmainīt līdz %s pikseļiem."
+
+#: scissors.php:1016
+#@ scissors
+msgid "Maintain aspect ratio."
+msgstr "Atstāt proprcijas."
+
+#: scissors.php:1019
+#@ scissors
+msgid "Rotate by"
+msgstr "Rotēt par"
+
+#: scissors.php:1020
+#@ scissors
+msgid "90 degrees left"
+msgstr "90 grādus pa kreisi"
+
+#: scissors.php:1021
+#@ scissors
+msgid "90 degrees right"
+msgstr "90 grādus pa labi"
+
+#: scissors.php:1022
+#@ scissors
+msgid "180 degrees"
+msgstr "180 grādus"
+
+#: scissors.php:1098
+#@ scissors
+msgid "Invalid target."
+msgstr "Nepareizs mērķis"
+
+#: scissors.php:1206
+#: scissors.php:1211
+#: scissors.php:1217
+#: scissors.php:1265
+#@ scissors
+msgid "Failed to save new image."
+msgstr "Neizdevas saglabāt bildi"
+
+#: scissors.php:1220
+#@ scissors
+msgid "Failed to crop image."
+msgstr "Neizdevās samazināt bildi."
+
+#: scissors.php:1225
+#: scissors.php:1274
+#@ scissors
+msgid "Failed to allocate memory."
+msgstr "Neizdevās noteikt atmiņu."
+
+#: scissors.php:1233
+#@ scissors
+msgid "Invalid selection."
+msgstr "Nepareizi atzīmēts."
+
+#: scissors.php:1268
+#@ scissors
+msgid "Failed to resize image."
+msgstr "Neizdevās samazināt attēlu."
+
+#: scissors.php:1280
+#@ scissors
+msgid "Invalid destination dimensions."
+msgstr "Nepareiza galamērķa dimensija."
+
+#: scissors.php:1301
+#: scissors.php:1337
+#@ scissors
+msgid "Invalid query."
+msgstr "Nepareizs vaicājums."
+
+#: scissors.php:910
+#: scissors.php:915
+#: scissors.php:920
+#: scissors.php:1342
+#@ scissors
+msgid "Failed to load image."
+msgstr "Neizdevās ielādēt attēlu."
+
+#: scissors.php:1345
+#@ scissors
+msgid "Invalid post-id."
+msgstr "Nepareizs post-id."
+
+#: scissors.php:1348
+#@ scissors
+msgid "Unauthorized query."
+msgstr "Neautorizēts jautājums."
+
+#: scissors.php:245
+#@ scissors
+msgid "Crop medium images to exact dimensions (normally medium images are proportional)"
+msgstr ""
+
+#: scissors.php:247
+#@ scissors
+msgid "Crop large images to exact dimensions (normally large images are proportional)"
+msgstr ""
+
+#: scissors.php:747
+msgid "Left"
+msgstr ""
+
+#: scissors.php:749
+msgid "Center"
+msgstr ""
+
+#: scissors.php:751
+msgid "Right"
+msgstr ""
+
+#: scissors.php:758
+msgid "Top"
+msgstr ""
+
+#: scissors.php:760
+msgid "Middle"
+msgstr ""
+
+#: scissors.php:762
+msgid "Bottom"
+msgstr ""
+

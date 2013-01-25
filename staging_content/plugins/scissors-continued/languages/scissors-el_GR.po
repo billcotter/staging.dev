@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors v1.0.2\n"
+"PO-Revision-Date: 2009-05-18 16:40-0700\n"
+"Last-Translator: elkos <elkosmas@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ."
+
+#: scissors.php:174
+#: scissors.php:200
+msgid "Full size"
+msgstr "Πλήρες μέγεθος"
+
+#: scissors.php:175
+msgid "Max Width"
+msgstr "Μέγιστο Πλάτος"
+
+#: scissors.php:177
+msgid "Max Height"
+msgstr "Μέγιστο Ύψος"
+
+#: scissors.php:179
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Προσδιορίστε 0 για να απενεργοποιήσετε την αλλαγή σε μια συγκεκριμένη διάσταση."
+
+#: scissors.php:519
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Τo plugin Scissors υποστηρίζει αυτόματη υδατογράφηση εικόνων. Παρακαλείσθε να ρυθμίσετε το χαρακτηριστικό αυτό εδώ ..."
+
+#: scissors.php:525
+msgid "Add watermarks to images that are uploaded from now on."
+msgstr "Προσθέστε υδατογραφήματα σε εικόνες που έχουν γίνει upload από τώρα και στο εξής."
+
+#: scissors.php:530
+#: scissors.php:623
+msgid "Image"
+msgstr "Εικόνα"
+
+#: scissors.php:532
+msgid "Select Image"
+msgstr ""
+
+#: scissors.php:533
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Κάντε κλικ στο κουμπί, διαλέξτε μια εικόνα κατά την έναρξη διαλόγου, και χρησιμοποιείστε \"Εισαγωγή στην καταχώρηση\" για να κάνετε την επιλογή."
+
+#: scissors.php:539
+#: scissors.php:624
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: scissors.php:541
+msgid "Do not resize the watermark."
+msgstr "Μην αλλάζετε το μέγεθος του υδατογραφήματος."
+
+#: scissors.php:545
+#, php-format
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Περιορισμός του υδατογραφήματος στο %s τοις εκατό του χώρου της εικόνας προορισμού."
+
+#: scissors.php:552
+#: scissors.php:625
+msgid "Horizontal alignment"
+msgstr "Οριζόντια ευθυγράμμιση"
+
+#: scissors.php:554
+msgid "left"
+msgstr "αριστερά"
+
+#: scissors.php:556
+msgid "center"
+msgstr "κέντρο"
+
+#: scissors.php:558
+msgid "right"
+msgstr "δεξιά"
+
+#: scissors.php:565
+msgid "top"
+msgstr "κορυφή"
+
+#: scissors.php:567
+msgid "middle"
+msgstr "μεσαία"
+
+#: scissors.php:569
+msgid "bottom"
+msgstr "κάτω"
+
+#: scissors.php:621
+msgid "Watermarking"
+msgstr "Υδατογράφημα"
+
+#: scissors.php:622
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: scissors.php:626
+msgid "Vertical alignment"
+msgstr "Κατακόρυφη ευθυγράμμιση"
+
+#: scissors.php:694
+msgid "Crop"
+msgstr "Αποκοπή"
+
+#: scissors.php:695
+msgid "Resize"
+msgstr "Αλλαγή μεγέθους"
+
+#: scissors.php:696
+msgid "Rotate"
+msgstr "Περιστροφή"
+
+#: scissors.php:697
+msgid "Watermarks"
+msgstr "Υδατογραφήματα"
+
+#: scissors.php:698
+msgid "Add watermarks"
+msgstr "Προσθήκη υδατογραφημάτων"
+
+#: scissors.php:699
+msgid "Remove watermarks"
+msgstr "Αφαίρεση υδατογραφημάτων"
+
+#: scissors.php:700
+msgid "Abort"
+msgstr "Εγκατάλειψη"
+
+#: scissors.php:701
+#, php-format
+msgid "Crop %s."
+msgstr "Αποκοπή %s."
+
+#: scissors.php:702
+#, php-format
+msgid "Lock aspect ratio to %s."
+msgstr "Κλείδωμα λόγου απεικόνισης στο %s."
+
+#: scissors.php:703
+msgid "width"
+msgstr "πλάτος"
+
+#: scissors.php:704
+msgid "height"
+msgstr "ύψος"
+
+#: scissors.php:705
+msgid "long side"
+msgstr "μακριά πλευρά"
+
+#: scissors.php:706
+msgid "short side"
+msgstr "κοντή πλευρά"
+
+#: scissors.php:707
+#, php-format
+msgid "Resize %1$s to %2$s pixels."
+msgstr "Αλλαγή μεγέθους από %1$s σε %2$s εικονοστοιχεία."
+
+#: scissors.php:708
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Χρήση αυτοματοποιημένης relevance-enhanced μείωσης εικόνας"
+
+#: scissors.php:728
+msgid "full chain"
+msgstr "πλήρη αλυσίδα"
+
+#: scissors.php:728
+msgid "full"
+msgstr "πλήρης"
+
+#: scissors.php:729
+msgid "large"
+msgstr "μεγάλη"
+
+#: scissors.php:729
+msgid "medium"
+msgstr "μεσαία"
+
+#: scissors.php:729
+msgid "thumbnail"
+msgstr "προεπισκόπιση"
+
+#: scissors.php:775
+msgid "Rotate by"
+msgstr "Περιστροφή κατά"
+
+#: scissors.php:776
+msgid "90 degrees left"
+msgstr "90 μοίρες αριστερά"
+
+#: scissors.php:777
+msgid "90 degrees right"
+msgstr "90 μοίρες δεξιά"
+
+#: scissors.php:778
+msgid "180 degrees"
+msgstr "180 μοίρες"
+
+#: scissors.php:830
+msgid "Invalid target."
+msgstr "Μη-έγκυρος στόχος"
+
+#: scissors.php:932
+#: scissors.php:937
+#: scissors.php:943
+#: scissors.php:1007
+msgid "Failed to save new image."
+msgstr "Αποτυχία αποθήκευσης νέας εικόνας."
+
+#: scissors.php:946
+msgid "Failed to crop image."
+msgstr "Αποτυχία αποκοπής εικόνας."
+
+#: scissors.php:951
+#: scissors.php:1016
+msgid "Failed to allocate memory."
+msgstr "Αποτυχία κατανομής μνήμης."
+
+#: scissors.php:959
+msgid "Invalid selection."
+msgstr "Μη-έγκυρη επιλογή."
+
+#: scissors.php:981
+msgid "Invalid mode."
+msgstr "Μη-έγκυρη λειτουργία."
+
+#: scissors.php:1010
+msgid "Failed to resize image."
+msgstr "Αποτυχία αλλαγής μέγεθος εικόνας."
+
+#: scissors.php:1022
+msgid "Invalid destination dimensions."
+msgstr "Μη-έγκυρες διαστάσεις προορισμού."
+
+#: scissors.php:1025
+msgid "Invalid side length."
+msgstr "Μη-έγκυρο μήκος πλευράς."
+
+#: scissors.php:1034
+#: scissors.php:1050
+#: scissors.php:1086
+msgid "Invalid query."
+msgstr "Μη-έγκυρο ερώτημα."
+
+#: scissors.php:1091
+msgid "Failed to load image."
+msgstr "Αποτυχία φόρτωσης εικόνας."
+
+#: scissors.php:1094
+msgid "Invalid post-id."
+msgstr "Μη-έγκυρο post-id."
+
+#: scissors.php:1097
+msgid "Unauthorized query."
+msgstr "Μη-εγκεκριμένο ερώτημα."
+

@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors v1.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-12 21:12+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Daniel Nyström <daniel@nystrom.st>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: scissors.php:227
+#: scissors.php:267
+msgid "Full size"
+msgstr "Full storlek"
+
+#: scissors.php:228
+msgid "Max Width"
+msgstr "Maximal bredd"
+
+#: scissors.php:230
+msgid "Max Height"
+msgstr "Maximal höjd"
+
+#: scissors.php:232
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Ange 0 för att slå av omskalning i en viss storlek."
+
+#: scissors.php:234
+#: scissors.php:239
+msgid "Adaptive mode: Limit width of landscape images and height of portrait images."
+msgstr "Adaptivt läge: Begränsa bredden på landskapsbilder och höjden på porträttbilder."
+
+#: scissors.php:626
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Scissors-pluginet stödjer automatisk vattenmärkning av bilder. Vänligen konfigurera denna funktion här ..."
+
+#: scissors.php:632
+msgid "large"
+msgstr "stor"
+
+#: scissors.php:633
+msgid "medium"
+msgstr "medium"
+
+#: scissors.php:634
+msgid "thumbnail"
+msgstr "miniatyr"
+
+#: scissors.php:635
+#: scissors.php:880
+msgid "full"
+msgstr "full"
+
+#: scissors.php:636
+msgid "custom"
+msgstr "anpassad"
+
+#: scissors.php:656
+#: scissors.php:739
+msgid "Image"
+msgstr "Bild"
+
+#: scissors.php:658
+msgid "Select Image"
+msgstr "Välj bild"
+
+#: scissors.php:659
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Klicka på knappen, välj en bild i dialogrutan som öppnas, och använd \"Infoga i inlägg\" för att välja."
+
+#: scissors.php:665
+#: scissors.php:740
+msgid "Size"
+msgstr "Storlek"
+
+#: scissors.php:667
+msgid "Do not resize the watermark."
+msgstr "Skala inte vattenmärkningen."
+
+#: scissors.php:671
+#, php-format
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Begränsa vattenmärkningen till %s procent av den slutliga bildarean."
+
+#: scissors.php:678
+#: scissors.php:741
+msgid "Horizontal alignment"
+msgstr "Horizontell justering"
+
+#: scissors.php:680
+msgid "left"
+msgstr "vänster"
+
+#: scissors.php:682
+msgid "center"
+msgstr "centrerad"
+
+#: scissors.php:684
+msgid "right"
+msgstr "höger"
+
+#: scissors.php:691
+msgid "top"
+msgstr "över"
+
+#: scissors.php:693
+msgid "middle"
+msgstr "mitten"
+
+#: scissors.php:695
+msgid "bottom"
+msgstr "under"
+
+#: scissors.php:737
+msgid "Watermarking"
+msgstr "Vattenmärkning"
+
+#: scissors.php:738
+msgid "Enable"
+msgstr "Aktivera"
+
+#: scissors.php:742
+msgid "Vertical alignment"
+msgstr "Vertikal justering"
+
+#: scissors.php:751
+msgid "Settings"
+msgstr "Inställningar"
+
+#: scissors.php:769
+msgid "Skip watermarking of images"
+msgstr "Hoppa över vattenmärkning av bilder"
+
+#: scissors.php:774
+msgid "Skip scaling of full-size images"
+msgstr "Hoppa över vattenmärkning av bilder i full storlek"
+
+#: scissors.php:851
+msgid "Crop"
+msgstr "Beskär"
+
+#: scissors.php:852
+msgid "Resize"
+msgstr "Ändra storlek"
+
+#: scissors.php:853
+msgid "Rotate"
+msgstr "Rotera"
+
+#: scissors.php:854
+msgid "Watermarks"
+msgstr "Vattenmärken"
+
+#: scissors.php:855
+msgid "Apply"
+msgstr "Verkställ"
+
+#: scissors.php:856
+msgid "Abort"
+msgstr "Avbryt"
+
+#: scissors.php:857
+#, php-format
+msgid "Crop %s."
+msgstr "Beskär %s."
+
+#: scissors.php:858
+#, php-format
+msgid "Lock aspect ratio to %s."
+msgstr "Lås höjd-/breddförhållandet till %s."
+
+#: scissors.php:859
+msgid "width"
+msgstr "bredd"
+
+#: scissors.php:860
+msgid "height"
+msgstr "höjd"
+
+#: scissors.php:861
+msgid "long side"
+msgstr "långsida"
+
+#: scissors.php:862
+msgid "short side"
+msgstr "kortsida"
+
+#: scissors.php:863
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Använd automatisk relevansförberedande bildreduktion."
+
+#: scissors.php:879
+msgid "full chain"
+msgstr "hela kedjan"
+
+#: scissors.php:914
+#, php-format
+msgid "Resize to %s pixels."
+msgstr "Ändra storlek till %s pixlar."
+
+#: scissors.php:919
+msgid "Maintain aspect ratio."
+msgstr "Behåll höjd-/breddförhållandet."
+
+#: scissors.php:922
+msgid "Rotate by"
+msgstr "Rotera"
+
+#: scissors.php:923
+msgid "90 degrees left"
+msgstr "90 grader motsols"
+
+#: scissors.php:924
+msgid "90 degrees right"
+msgstr "90 grader medsols"
+
+#: scissors.php:925
+msgid "180 degrees"
+msgstr "180 grader"
+
+#: scissors.php:1001
+msgid "Invalid target."
+msgstr "Ogiltigt mål."
+
+#: scissors.php:1109
+#: scissors.php:1114
+#: scissors.php:1120
+#: scissors.php:1168
+msgid "Failed to save new image."
+msgstr "Misslyckades att spara bild."
+
+#: scissors.php:1123
+msgid "Failed to crop image."
+msgstr "Misslyckades att beskära bild."
+
+#: scissors.php:1128
+#: scissors.php:1177
+msgid "Failed to allocate memory."
+msgstr "Misslyckades att allokera minne."
+
+#: scissors.php:1136
+msgid "Invalid selection."
+msgstr "Ogiltig markering."
+
+#: scissors.php:1171
+msgid "Failed to resize image."
+msgstr "Misslyckades att ändra storlek på bild."
+
+#: scissors.php:1183
+msgid "Invalid destination dimensions."
+msgstr "Ogiltiga slutdimensioner."
+
+#: scissors.php:1204
+#: scissors.php:1240
+msgid "Invalid query."
+msgstr "Ogiltig begäran."
+
+#: scissors.php:1245
+msgid "Failed to load image."
+msgstr "Misslyckades att ladda bild."
+
+#: scissors.php:1248
+msgid "Invalid post-id."
+msgstr "Ogiltigt post-id."
+
+#: scissors.php:1251
+msgid "Unauthorized query."
+msgstr "Obehörig begäran."
+

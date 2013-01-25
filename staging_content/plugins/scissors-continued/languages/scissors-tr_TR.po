@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scissors 0.98 in Danish / på dansk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-14 08:18+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Omer Faruk <admin@ramerta.com>\n"
+"Language-Team: Team Blogos <admin@@ramerta.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e;__ngettext:1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: d:/wordpress/plugins/scissors\n"
+": \n"
+"X-Poedit-SearchPath-0: d:/wordpress/plugins/scissors\n"
+
+#: scissors.php:170
+#: scissors.php:199
+msgid "Full size"
+msgstr "Tam boyut"
+
+#: scissors.php:171
+msgid "Max Width"
+msgstr "Maksimum En"
+
+#: scissors.php:173
+msgid "Max Height"
+msgstr "Maksimum Yükseklik"
+
+#: scissors.php:175
+msgid "Specify 0 to disable resizing in a particular dimension."
+msgstr "Bir parça ebat içerisinde boyutlandırmayı etkisiz kılmak için 0 olarak belirle"
+
+#: scissors.php:518
+msgid "The Scissors plugin supports automatic watermarking of images. Please configure this feature here ..."
+msgstr "Scissors eklentisi resimlere otomatik olarak watermark eklemeye yarar. Lütfen özellik ayarlarını buradan yapın..."
+
+#: scissors.php:524
+msgid "Add watermarks to images that are uploaded from now on."
+msgstr "Şimdi yüklenecek olan resimlere watermark ekle."
+
+#: scissors.php:529
+#: scissors.php:627
+msgid "Image"
+msgstr "Resim"
+
+#: scissors.php:531
+msgid "Select Image"
+msgstr "Resimi seç"
+
+#: scissors.php:532
+msgid "Click the button, pick an image in the opening dialog, and use \"Insert into Post\" to make the selection."
+msgstr "Butona tıkla, açılacak olan diyalog içerisinden bir resim seç, ve seçilen yapmak için \"Insert into Post\" kullan."
+
+#: scissors.php:538
+#: scissors.php:628
+msgid "Size"
+msgstr "Boyut"
+
+#: scissors.php:540
+msgid "Do not resize the watermark."
+msgstr "Watermark'ı tekrar boyutlandırma."
+
+#: scissors.php:544
+#, php-format
+msgid "Limit the watermark to %s percent of the destination image area."
+msgstr "Watermark'ı hedef resim alanının yüzde %s'ine limitle."
+
+#: scissors.php:551
+#: scissors.php:629
+msgid "Horizontal alignment"
+msgstr "Yatay dizi"
+
+#: scissors.php:625
+msgid "Watermarking"
+msgstr "Watermarking"
+
+#: scissors.php:626
+msgid "Enable"
+msgstr "Onayla"
+
+#: scissors.php:630
+msgid "Vertical alignment"
+msgstr "Dikey dizi"
+
+#: scissors.php:684
+msgid "Crop"
+msgstr "Kes"
+
+#: scissors.php:685
+msgid "Resize"
+msgstr "Yeniden Boyutlandır"
+
+#: scissors.php:690
+msgid "Abort"
+msgstr "Durdur"
+
+#: scissors.php:691
+#, php-format
+msgid "Crop %s."
+msgstr "%s kes."
+
+#: scissors.php:692
+#, php-format
+msgid "Lock aspect ratio to %s."
+msgstr "Açı oranını %s olarak kilitle"
+
+#: scissors.php:693
+msgid "width"
+msgstr "en"
+
+#: scissors.php:694
+msgid "height"
+msgstr "yükseklik"
+
+#: scissors.php:695
+msgid "long side"
+msgstr "uzun kenar"
+
+#: scissors.php:696
+msgid "short side"
+msgstr "kısa kenar"
+
+#: scissors.php:697
+#, php-format
+msgid "Resize %1$s to %2$s pixels."
+msgstr "%1$s'i %2$s piksele tekrar boyutlandır."
+
+#: scissors.php:698
+msgid "Use automatic relevance-enhanced image reduction."
+msgstr "Otomatik ilişki-arttırı resim azalmasını kullan."
+
+#: scissors.php:718
+msgid "full chain"
+msgstr "fill zincir"
+
+#: scissors.php:718
+msgid "full"
+msgstr "full"
+
+#: scissors.php:719
+msgid "large"
+msgstr "büyük"
+
+#: scissors.php:719
+msgid "medium"
+msgstr "orta"
+
+#: scissors.php:719
+msgid "thumbnail"
+msgstr "küçük resim"
+
+#: scissors.php:819
+msgid "Invalid target."
+msgstr "Geçersiz hedef."
+
+#: scissors.php:921
+#: scissors.php:926
+#: scissors.php:932
+#: scissors.php:996
+msgid "Failed to save new image."
+msgstr "Yeni resim kaydetmesinde hata."
+
+#: scissors.php:935
+msgid "Failed to crop image."
+msgstr "Resim kesmede hata"
+
+#: scissors.php:940
+#: scissors.php:1005
+msgid "Failed to allocate memory."
+msgstr "Geçersiz hafıza paylaşımı."
+
+#: scissors.php:948
+msgid "Invalid selection."
+msgstr "Geçersiz seçim."
+
+#: scissors.php:970
+msgid "Invalid mode."
+msgstr "Geçersiz mod."
+
+#: scissors.php:999
+msgid "Failed to resize image."
+msgstr "Resim boyutlanmasında hata."
+
+#: scissors.php:1011
+msgid "Invalid destination dimensions."
+msgstr "Geçersiz hedef boyutu."
+
+#: scissors.php:1014
+msgid "Invalid side length."
+msgstr "Geçersiz kenar uzunluğu."
+
+#: scissors.php:1023
+#: scissors.php:1039
+#: scissors.php:1075
+msgid "Invalid query."
+msgstr "Geçersiz sorgu."
+
+#: scissors.php:1080
+msgid "Failed to load image."
+msgstr "Resim yüklemede hata"
+
+#: scissors.php:1083
+msgid "Invalid post-id."
+msgstr "Geçersiz yazı-ID"
+
+#: scissors.php:1086
+msgid "Unauthorized query."
+msgstr "Resmi olmayan sorgu."
+
+#: scissors.php:553
+msgid "left"
+msgstr "sol"
+
+#: scissors.php:555
+msgid "center"
+msgstr "orta"
+
+#: scissors.php:557
+msgid "right"
+msgstr "sağ"
+
+#: scissors.php:564
+msgid "top"
+msgstr "üst"
+
+#: scissors.php:566
+msgid "middle"
+msgstr "orta kısım"
+
+#: scissors.php:568
+msgid "bottom"
+msgstr "arka"
+
+#: scissors.php:686
+msgid "Rotate"
+msgstr "Döndür"
+
+#: scissors.php:687
+msgid "Watermarks"
+msgstr "Watermarks"
+
+#: scissors.php:688
+msgid "Add watermarks"
+msgstr "Wathermarkları ekle"
+
+#: scissors.php:689
+msgid "Remove watermarks"
+msgstr "Watermarkları sil"
+
+#: scissors.php:765
+msgid "Rotate by"
+msgstr "İle çevir:"
+
+#: scissors.php:766
+msgid "90 degrees left"
+msgstr "90 derece sol"
+
+#: scissors.php:767
+msgid "90 degrees right"
+msgstr "90 derece sağ"
+
+#: scissors.php:768
+msgid "180 degrees"
+msgstr "180 derece"
+

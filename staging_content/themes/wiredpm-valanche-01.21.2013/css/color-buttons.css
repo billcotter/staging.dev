@@ -1,0 +1,79 @@
+/* Color Buttons
+------------------------------------------------------------ */
+
+a.button-blue:hover,
+a.button-gray:hover,
+a.button-green:hover,
+a.button-purple:hover,
+a.button-red:hover,
+a.button-yellow:hover,
+.button-blue,
+.button-gray,
+.button-green,
+.button-purple,
+.button-red,
+.button-yellow {
+	color: #fff;
+	padding: 5px 10px;
+	text-decoration: none !important;
+}
+
+.button-blue {
+	background-color: #afcde3;
+	border: 1px solid #afcde3;
+}
+
+.button-blue:hover {
+	background-color: #83a2be;
+	border: 1px solid #83a2be;
+}
+
+.button-gray {
+	background-color: #bdbdbd;
+	border: 1px solid #bdbdbd;
+}
+
+.button-gray:hover {
+	background-color: #919191;
+	border: 1px solid #919191;
+}
+
+.button-green {
+	background-color: #b2ce96;
+	border: 1px solid #b2ce96;
+}
+
+.button-green:hover {
+	background-color: #86a36e;
+	border: 1px solid #86a36e;
+}
+
+.button-purple {
+	background-color: #bebde9;
+	border: 1px solid #bebde9;
+}
+
+.button-purple:hover {
+	background-color: #9291c7;
+	border: 1px solid #9291c7;
+}
+
+.button-red {
+	background-color: #e9b3b3;
+	border: 1px solid #e9b3b3;
+}
+
+.button-red:hover {
+	background-color: #c78787;
+	border: 1px solid #c78787;
+}
+
+.button-yellow {
+	background-color: #fadf98;
+	border: 1px solid #fadf98;
+}
+
+.button-yellow:hover {
+	background-color: #ecb870;
+	border: 1px solid #ecb870;
+}
